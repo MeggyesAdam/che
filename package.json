@@ -1,5 +1,5 @@
 {
-  "name": "chess",
+  "name": "che",
   "version": "1.0.0",
   "description": "an electron chess game",
   "main": "main.js",
